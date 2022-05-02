@@ -14,8 +14,11 @@ In multi-class classification, the neural network has the same number of output 
 
 ## Algorithm
 1.Import the necessary modules.
+
 2.Frame the dataset using make_blobs.
+
 3.Assign the counter value using the Counter function.
+
 4.Using a for loop, plot the points using scatter function.
 
 
