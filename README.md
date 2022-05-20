@@ -1,6 +1,6 @@
 # EXP. NO: 03
 
-# DATE :
+# DATE : 11.04.22
 
 # <p align = "center">MULTI-CLASS-CLASSIFICATION</p>
 
